@@ -1,0 +1,2 @@
+Bu, develop dalinda yapilan ilk degisikliktir.
+Yeni bir satir ekliyorum.
